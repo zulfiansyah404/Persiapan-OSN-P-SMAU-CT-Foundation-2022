@@ -1,0 +1,29 @@
+Rekaman Pembinaan OSP SMA CT Foundation
+
+1. Perkenalan C++ dan Pemrograman Dasar
+Link : https://itb-ac-id.zoom.us/rec/share/F3TTo_G5MIwpNPHc1oxy7NCmFVZzn37Nse39K2qeZHYpN8Kh-x3nP4kztqOig-RJ.k4-PA85mZcYdes0A
+Passcode:4cH@Z%%Y
+
+2. Pemrograman Dasar (Perulangan Lanjutan dan Analisis Kompleksitas)
+Link : https://itb-ac-id.zoom.us/rec/share/aQWcAxT0AEM-TSTJd93WlmWAQnbu5Gzj2UeWWHfZ6rFTXI3Of3YDwRv4sy8lv_2C.mvQND9Qltgcsl5ib
+Passcode:@1y%wQtE
+
+3. Perkenalan Pemrograman Kompetitif Dasar
+Link : https://itb-ac-id.zoom.us/rec/share/nICCyvP9qO1yU9vVgv3TJ9AluVDM1hX5Hk5J5LG6CH569AE9eccWcSkMJBMIKPcQ.GXLp1LOY7ei6jJHe
+Passcode:F9@masik
+
+4. Matematika Diskrit 
+Link : https://itb-ac-id.zoom.us/rec/share/ZSTe1RrwdEoIpTNWGiliosEB-Fp48cfpZ68oFU_bREaz1IZD_Imt2fj1uGs2imDB.X61GZJ5jooBL00ph
+Passcode:#0?h0S?E
+
+5. Pencarian Dan Pengurutan
+Link : https://itb-ac-id.zoom.us/rec/share/P6yh8n4MdxPzfiZpYcbmQPaNVAHUKx6DuuVsyttVgOWT5mxXwm2NGdOV7Mkpv5eM.afXohUTC6ePO0_u-
+Passcode:i6GA6jq$
+
+6. Brute Force
+Link : https://itb-ac-id.zoom.us/rec/share/IqjWqtMmmVOMVZ6O4RLWBBJKX3hydz_n7SY_Ste-zHG3e4mgnFw4U7pK-g1GJ785.ecI2pk9D_OT9JInH
+Passcode:Ky8!8&u4
+
+7. Divide And Qonquer
+Link : https://itb-ac-id.zoom.us/rec/share/Mcj7a2UVHT4WNlcMKjp0dSjjJzYyGwzXeg3eEbQ1fkOHiBtjf8qnCCyOJeYCJPN1.9wMeUD_0oEXj801B
+Passcode:P9*ZkyUm
